@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c736e89e-b5aa-4747-8c60-d8cac131021b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fjob_req.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/--logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cockpit_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo--.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-use.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/b_calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/boy-cp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/boy-cp.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/btn/343-3435471_mobile-navigation-bar-menu-responsive-ui-comments-facebook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/btn/BTN_MENU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/btn/BTN_Template.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/btn/BTN_Template2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/btn/Phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon/admin-001 - Copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon/admin-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon/product-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon/user-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon/user-002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon/vip-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/innovation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jaiPrompt_Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/Logo-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/bak-logo text-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/cockpit_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/company_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/heart_jai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/heart_jai.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/jaiPrompt_Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/jaiPrompt_Logo.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/jaiPrompt_Logo_main.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/logo text-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/logo-use.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/logo.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/logo.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/screenshot/ss2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/think.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/undraw_posting_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/Left_Panel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/Top_Bar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-bak.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/page-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/bak/page-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/db_value.inc" beforeDir="false" afterPath="$PROJECT_DIR$/config/db_value.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/Header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/Header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login_process.php" beforeDir="false" afterPath="$PROJECT_DIR$/login_process.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="6540d50e-7f0a-4d51-b620-e7500bd7eea4" name="localhost" use_path_mappings="true" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="2GtO8YDhVBOWKOKuOMb1ecY4JSk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sac_data" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="D:\website\sac_xleave\node_modules\stylelint" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\website\sac_empl" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Localhost" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="localhost" start_url="/sac_req">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c736e89e-b5aa-4747-8c60-d8cac131021b" name="Default Changelist" comment="" />
+      <created>1667204254944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667204254944</updated>
+      <workItem from="1667204256373" duration="293000" />
+      <workItem from="1667204742664" duration="1996000" />
+      <workItem from="1667209503555" duration="1831000" />
+      <workItem from="1667361909084" duration="331000" />
+      <workItem from="1667376816550" duration="2355000" />
+      <workItem from="1667379794394" duration="1827000" />
+      <workItem from="1667381653393" duration="4448000" />
+      <workItem from="1667543809743" duration="4746000" />
+      <workItem from="1667551479828" duration="1268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="171" key="#Servers" timestamp="1667361947816">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="540" y="171" key="#Servers/0.0.1920.1032@0.0.1920.1032" timestamp="1667361947816" />
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667550344260">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1667550344260" />
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1667546629652">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1667546629652" />
+    <state width="1877" height="260" key="GridCell.Tab.0.bottom" timestamp="1667209408383">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1667209408383" />
+    <state width="1877" height="260" key="GridCell.Tab.0.center" timestamp="1667209408382">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="260" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1667209408382" />
+    <state width="1877" height="260" key="GridCell.Tab.0.left" timestamp="1667209408382">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="260" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1667209408382" />
+    <state width="1877" height="260" key="GridCell.Tab.0.right" timestamp="1667209408383">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="260" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1667209408383" />
+    <state x="794" y="439" key="NewPhpFileDialog" timestamp="1667550510821">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="794" y="439" key="NewPhpFileDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1667550510821" />
+    <state x="752" y="375" key="scopes" timestamp="1667550440579">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="752" y="375" key="scopes/0.0.1920.1032@0.0.1920.1032" timestamp="1667550440579" />
+  </component>
+</project>
